@@ -5,6 +5,6 @@ The goal in this section of the week, we challenged ourselves to understand how 
 
 # Overview
 
-Demo link: 
+Demo link: https://kimah1999.github.io/PasswordGenerator-JavaScript/
 
 ![image](https://user-images.githubusercontent.com/87666809/157741206-2d239335-e5d0-4632-b293-f61f837dd726.png)
