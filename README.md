@@ -7,4 +7,5 @@ The goal in this section of the week, we challenged ourselves to understand how 
 
 Demo link: https://kimah1999.github.io/PasswordGenerator-JavaScript/
 
-![image](https://user-images.githubusercontent.com/87666809/157741206-2d239335-e5d0-4632-b293-f61f837dd726.png)
+
+![passwordGeneratore](https://user-images.githubusercontent.com/87666809/218286597-70abc15b-1220-4e3d-a081-bf40e9fdf624.png)
