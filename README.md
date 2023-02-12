@@ -1,7 +1,9 @@
 # PasswordGenerator-JavaScript
 
 # Purpose
-The goal in this section of the week, we challenged ourselves to understand how to create a generator that makes passwords that contain special criterias, such ass uppercase, lowercase, numbered, and symbol characters. This subject was essenical because in this generation and the future, profiles are used and password generators are helpful when creating a strong random password quickly on the spot for the user. 
+This JavaScript code will create a password according to the user's preferences. The user is first requested to input the desired password length before being given the option to add special characters, numerals, lowercase letters, and capital letters. A random password is created and presented in the password input box based on the user's input. Combining arrays of special characters, digits, lowercase letters, and uppercase letters, the password is created by selecting random components at random from these arrays. There will always be at least one character from each kind the user choose in the password.
+
+Our task for this week's segment was to learn how to develop a password generator that produces passwords that meet specific requirements, such capital, lowercase, numerical, and symbol characters. This topic was crucial since password generators are useful for rapidly and on-the-spot establishing secure random passwords for users in this generation and the one to come.
 
 # Overview
 
